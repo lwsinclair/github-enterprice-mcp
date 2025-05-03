@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/piyushgiitian-github-enterprice-mcp-badge.png)](https://mseep.ai/app/piyushgiitian-github-enterprice-mcp)
+
 # GitHub Enterprise MCP Server
 
 MCP Server for the GitHub API, enabling file operations, repository management, search functionality, and more.
